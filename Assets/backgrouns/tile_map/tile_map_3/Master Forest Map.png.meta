@@ -1,0 +1,2741 @@
+fileFormatVersion: 2
+guid: 4ba0ed868154aec46931f8415bbfa3de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 302
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Master Forest Map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45e29d24244a041b637b235fc4856d
+      internalID: -748174557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7bf94767b841f448f7ecadfed17090
+      internalID: 2028058573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad57c0445d700348a1f6adfcaee29ed
+      internalID: 281766002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5515fd67c0fc4eb7d62323db8bf15
+      internalID: 180467489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330d445c7357584f95dd665e04b1a58
+      internalID: -24391129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf3ae0bdd004447bfcff5f110e6c3d
+      internalID: -1792414591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ffd9055d3e1954c8445a7f11f7f294
+      internalID: -218898328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_7
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a94c6837b1324693358f7fa415ffb
+      internalID: 720953951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_8
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b20ace1286ca34d83ba105ff40b0f5
+      internalID: -1299318177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_9
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e17e4cdda6c084e90794bf433e58e4
+      internalID: 1072403335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_10
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f9cb6044706c45acefb6cc7313aef
+      internalID: -434072384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_11
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1cadaa57ae8148ab98637bc321028
+      internalID: -1335360358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_12
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76728a7172a23354097fc03a9842a49e
+      internalID: 388004549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_13
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca336ccad554c5459eb67a195575c51
+      internalID: -1767002743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_14
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 2116
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c97b7e4addad9349acdf0522eaf3d96
+      internalID: -978714223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b127978dc84fb3d43948141affd39b6a
+      internalID: 1409496875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7ff9079ed340438a651bec1821d84
+      internalID: 1015895286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c3fb66501549478eba05f6d4b7990
+      internalID: 777302759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf55f1cff3204499561c10bef27484
+      internalID: 1216756750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_19
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b863258ed17f384da04f56c8af02f1a
+      internalID: 1978441519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_20
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfbb34abb1659e4098b2012ad640c72
+      internalID: -63786969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_21
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc082769fb27847a993d0dc836bd8b
+      internalID: -839807128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_22
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e694ca29e590d5441bb1901d25eefeaf
+      internalID: 1452531223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_23
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d113da14aeab154ea4ff63eca946a5e
+      internalID: 1104506772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_24
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5cd1688835cd24381a75acc9f4847d
+      internalID: -1662925360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_25
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35093e11d12d24488e9bb24abef4fdf
+      internalID: 1054840700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_26
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769eb81127e90947b8f39e9fc8b61ca
+      internalID: -670524311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_27
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d273495c56403fe4f9a98e6f5617f935
+      internalID: -1260369118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_28
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0520c6ad89127b43a87dc63e13dba7d
+      internalID: 538107215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_29
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1814
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bfd33343b35464bb05eec06ca1abc3
+      internalID: 1953480066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc1a30d46278d478a3f4cd9a108aad
+      internalID: -517374417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346875a77bae7a4faa7aba032f8f649
+      internalID: -44307740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f09fa4e6b623c46b06474333d39fa7
+      internalID: 1679706617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_33
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b81849c24185a54cbf7a984c06b699e
+      internalID: 1389834723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_34
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7feb8e806f97040aaf7f2ae4c55a46
+      internalID: -753424010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_35
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df7f4929405da47a1efa1ef37b252e
+      internalID: 1600047344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_36
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40640a43100ae043825cc7b2115c2bb
+      internalID: -1565354641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_37
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399aea368e4a5e4baca1759a2ab8e6b
+      internalID: 915157910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_38
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a40669472b71484e8848ae6f19ba2e1
+      internalID: 2124022943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_39
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7b7a81ee6be9468133265837e72fd
+      internalID: -1101627917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_40
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359fe0562e57c948bcdb516e102d2c5
+      internalID: 426099754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_41
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f851a07aac404f956e526e4d46e43
+      internalID: 2031627176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_42
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd6e685922a194ea5e21ca088fb9ea
+      internalID: -1509686272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_43
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc376d1efc9a234cb99ef36cbfc0335
+      internalID: 980561990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_44
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1512
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b76fee3bb9bc7a4f8fd7a446e42f4b7
+      internalID: 1421739889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc16053aa48014b8968c79d4abbd84
+      internalID: -1415476206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db812d16ccc3a7141b6b10ba865c09b6
+      internalID: 1363815688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_47
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1b38c5759d464fa6e0aa6618a7634
+      internalID: -1200002889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_48
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12b68d35854ae45afa1b39a51f1401
+      internalID: -1206414650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_49
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43e0f9e687d0324dafee7ddc00853af
+      internalID: 1976111412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_50
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590021b1bfbe594698a1333e675691d
+      internalID: 2043815519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_51
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928c51900ae7924ab6551d3f705a58e
+      internalID: -1252782570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_52
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cf527c73211847a2073a3a81ea3d7
+      internalID: 2015570808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_53
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f93761a40c73548b19a388821c908d
+      internalID: -157451721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_54
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32fc258735af764e9b72023e2208b71
+      internalID: 111306301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_55
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d8b7b122a142438f260d7caa1c36f
+      internalID: -850746581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_56
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064685289bd7834c93c8be4c7839f08
+      internalID: 1900814300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_57
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eddf5b24f4281346a36503c329dbb66
+      internalID: 807479469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_58
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f062ffc9523f0b4fba6d9cd102603e6
+      internalID: 2088596579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_59
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1210
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19c6f8088bed3a4198fc5cc29b2b66c
+      internalID: -1724033303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d3d8f1b030b441aad366dcb6cf05b
+      internalID: 1962207893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a41a11acb0064886f32902e0aa30a
+      internalID: 1845675780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_62
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808361df2c6081c4183f3b7d8703c981
+      internalID: 1835348031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_63
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08b1333eaa67143adc195025fb053a
+      internalID: -731054130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_64
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04087bdb2bd8f44e8f8658faf3fdf32
+      internalID: -1990910299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_65
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ce6f4e15533e40956409e3f87f634
+      internalID: -42818274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_66
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e84e20ca160ba4ebc27c94e444abf3
+      internalID: 1255302924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_67
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbce4c073444842848f8601d0b7cfb
+      internalID: -931276640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_68
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf902fab79ba314db13803304d30eb8
+      internalID: 265758952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_69
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ce388b98334b458567794796ae9e2
+      internalID: 83470123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_70
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8486daac184c4aa35f9c4587dfe64
+      internalID: -1510518805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_71
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab77f80a6f8b644b041c9169b25e47
+      internalID: 1820480121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_72
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eb675402050484783a10684e320563
+      internalID: -1832152273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_73
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32134e9dca46f7428c42026ec9f8d1a
+      internalID: -384222528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_74
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 908
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad79d8900fa09949980b77841c42819
+      internalID: 371952813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d52ff25bced2454ca5eda60c244b110
+      internalID: 1767835184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd02a2582d1e3e4e82e64312b18cf97
+      internalID: -24333172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_77
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99070cbfa15d8594994dca3b5ebf8191
+      internalID: -15390809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_78
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5895da73f9de48a241616a9df86c0
+      internalID: 448931311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_79
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b72fb0128c08448826cebaf81473e3
+      internalID: -1685020140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_80
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2e17e5de084643a9527cbcad09ed6
+      internalID: 1410271763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_81
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fdf44341ee634293733ae8ab5b0ab
+      internalID: 1380118037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_82
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f90251fe2f2a4daa474defd8e10d9
+      internalID: 830421378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_83
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68f4bcd183b6a4792954fbce120527
+      internalID: -1924246959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_84
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75a538c6e9f3940b13320fc109a1cb
+      internalID: -1059807888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_85
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0203c2b3c65841b1ca9d299afe7b2
+      internalID: -562932781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_86
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b6daceb4defd14584c9e165675294d
+      internalID: 1948633503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_87
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62fa9ee64edac4991e7fc8f107cff0
+      internalID: 2026743377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_88
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e371025f250b49adfa43425dda3e1
+      internalID: -716219109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_89
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 606
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00948be01fb9064293566b27c34c7d8
+      internalID: -801667829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03822b4fb65fdd428fce73573f12e6e
+      internalID: -1818691096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cbc3610a3d6fb43b8398d865080102
+      internalID: -488236447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_92
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5fb33223c955a48a3b25aa0186e96d
+      internalID: 324418130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_93
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0e0055222b374da14f9814e41d6fa
+      internalID: -1467213979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_94
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565286e7521e3224b8040f153cb9a426
+      internalID: 1343414896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_95
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d022b7a65ac765049a1e757aed4fc536
+      internalID: 1969407599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_96
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1799bed12fd4c4e42a3c02297208e474
+      internalID: -1648715126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_97
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7fc4c55c7f5e468bda65e3bc59648
+      internalID: -616691145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_98
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f84faccf8f23aa4e85d08ee575ff313
+      internalID: -1397427604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_99
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f519a34f6dd92c429fa3d5b1d0df391
+      internalID: -506352097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_100
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f2f318ece374498d480bf02d77101
+      internalID: 1087153849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_101
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61393ec88e38ca941868d3a185922041
+      internalID: -755668693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_102
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503784d7b66ac2449e29dc09d7299ba
+      internalID: -485620076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_103
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 304
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dbadbe421723c48aa661b4185f5177
+      internalID: 440556895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d0a216003fcd4999f2c3e7f7d03fa
+      internalID: 1778198272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0a765e3db8384e8b6138f1b28f911
+      internalID: 1476750365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_106
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c819f1a0a4e3044ab813b61148f188
+      internalID: 1526391574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_107
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb585ab93a7ed944a0c0f544c2ad603
+      internalID: 901126505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_108
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32805c2fd6ec10b4aad6e6bc2b4dca38
+      internalID: -1804137894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_109
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4c69d4ecc2b74ebd73431b5223213
+      internalID: 2125068036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_110
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e14c7d47c7bd340992a9595eb7e271
+      internalID: 213679378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_111
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3612c37382de340a91e00c328dcea0
+      internalID: -689442517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_112
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c59756ffa96449b27d2ccee16f234
+      internalID: 1836402701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_113
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99d23423f0eb914cb57005b5ce2491c
+      internalID: -791383447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_114
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4798493fc36f4fbd7691a189a52c6
+      internalID: 346390313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_115
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593eb4a2025aac4086207c728168b25
+      internalID: -1761569912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_116
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8dcd0593d6af4095146e4ec35d678
+      internalID: 2084379632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_117
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e865e92ed852914abfa1c6afcd669cc
+      internalID: -415377331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Master Forest Map_118
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 2
+        width: 302
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cfcc475d4c6c4f9e3c97912c349ce
+      internalID: -972526586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Master Forest Map_84: -1059807888
+      Master Forest Map_83: -1924246959
+      Master Forest Map_43: 980561990
+      Master Forest Map_60: 1962207893
+      Master Forest Map_70: -1510518805
+      Master Forest Map_86: 1948633503
+      Master Forest Map_38: 2124022943
+      Master Forest Map_46: 1363815688
+      Master Forest Map_97: -616691145
+      Master Forest Map_73: -384222528
+      Master Forest Map_89: -801667829
+      Master Forest Map_71: 1820480121
+      Master Forest Map_49: 1976111412
+      Master Forest Map_111: -689442517
+      Master Forest Map_107: 901126505
+      Master Forest Map_21: -839807128
+      Master Forest Map_77: -15390809
+      Master Forest Map_113: -791383447
+      Master Forest Map_99: -506352097
+      Master Forest Map_24: -1662925360
+      Master Forest Map_79: -1685020140
+      Master Forest Map_9: 1072403335
+      Master Forest Map_96: -1648715126
+      Master Forest Map_34: -753424010
+      Master Forest Map_81: 1380118037
+      Master Forest Map_33: 1389834723
+      Master Forest Map_85: -562932781
+      Master Forest Map_61: 1845675780
+      Master Forest Map_51: -1252782570
+      Master Forest Map_14: -978714223
+      Master Forest Map_3: 180467489
+      Master Forest Map_25: 1054840700
+      Master Forest Map_4: -24391129
+      Master Forest Map_5: -1792414591
+      Master Forest Map_1: 2028058573
+      Master Forest Map_44: 1421739889
+      Master Forest Map_72: -1832152273
+      Master Forest Map_17: 777302759
+      Master Forest Map_37: 915157910
+      Master Forest Map_59: -1724033303
+      Master Forest Map_116: 2084379632
+      Master Forest Map_103: 440556895
+      Master Forest Map_87: 2026743377
+      Master Forest Map_98: -1397427604
+      Master Forest Map_105: 1476750365
+      Master Forest Map_104: 1778198272
+      Master Forest Map_102: -485620076
+      Master Forest Map_82: 830421378
+      Master Forest Map_101: -755668693
+      Master Forest Map_42: -1509686272
+      Master Forest Map_0: -748174557
+      Master Forest Map_19: 1978441519
+      Master Forest Map_11: -1335360358
+      Master Forest Map_74: 371952813
+      Master Forest Map_39: -1101627917
+      Master Forest Map_30: -517374417
+      Master Forest Map_32: 1679706617
+      Master Forest Map_41: 2031627176
+      Master Forest Map_65: -42818274
+      Master Forest Map_112: 1836402701
+      Master Forest Map_53: -157451721
+      Master Forest Map_106: 1526391574
+      Master Forest Map_92: 324418130
+      Master Forest Map_6: -218898328
+      Master Forest Map_22: 1452531223
+      Master Forest Map_7: 720953951
+      Master Forest Map_36: -1565354641
+      Master Forest Map_95: 1969407599
+      Master Forest Map_57: 807479469
+      Master Forest Map_110: 213679378
+      Master Forest Map_118: -972526586
+      Master Forest Map_90: -1818691096
+      Master Forest Map_45: -1415476206
+      Master Forest Map_58: 2088596579
+      Master Forest Map_63: -731054130
+      Master Forest Map_18: 1216756750
+      Master Forest Map_20: -63786969
+      Master Forest Map_66: 1255302924
+      Master Forest Map_35: 1600047344
+      Master Forest Map_109: 2125068036
+      Master Forest Map_64: -1990910299
+      Master Forest Map_2: 281766002
+      Master Forest Map_117: -415377331
+      Master Forest Map_50: 2043815519
+      Master Forest Map_52: 2015570808
+      Master Forest Map_16: 1015895286
+      Master Forest Map_75: 1767835184
+      Master Forest Map_56: 1900814300
+      Master Forest Map_31: -44307740
+      Master Forest Map_10: -434072384
+      Master Forest Map_47: -1200002889
+      Master Forest Map_62: 1835348031
+      Master Forest Map_78: 448931311
+      Master Forest Map_23: 1104506772
+      Master Forest Map_29: 1953480066
+      Master Forest Map_68: 265758952
+      Master Forest Map_88: -716219109
+      Master Forest Map_12: 388004549
+      Master Forest Map_26: -670524311
+      Master Forest Map_94: 1343414896
+      Master Forest Map_76: -24333172
+      Master Forest Map_114: 346390313
+      Master Forest Map_28: 538107215
+      Master Forest Map_40: 426099754
+      Master Forest Map_80: 1410271763
+      Master Forest Map_54: 111306301
+      Master Forest Map_8: -1299318177
+      Master Forest Map_55: -850746581
+      Master Forest Map_93: -1467213979
+      Master Forest Map_15: 1409496875
+      Master Forest Map_27: -1260369118
+      Master Forest Map_100: 1087153849
+      Master Forest Map_91: -488236447
+      Master Forest Map_108: -1804137894
+      Master Forest Map_48: -1206414650
+      Master Forest Map_13: -1767002743
+      Master Forest Map_115: -1761569912
+      Master Forest Map_67: -931276640
+      Master Forest Map_69: 83470123
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

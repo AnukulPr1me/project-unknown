@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Platform
+  - map
+  - traps
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - sky
+  - Water
+  - UI
+  - Ground
+  - Player
+  - checkpoint
+  - Enemy
+  - light
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: light
+    uniqueID: 3313028543
+    locked: 0
+  - name: sky
+    uniqueID: 2070206677
+    locked: 0
+  - name: partical
+    uniqueID: 1152790871
+    locked: 0
+  - name: Water
+    uniqueID: 1740301899
+    locked: 0
+  - name: checkpoint
+    uniqueID: 3239767945
+    locked: 0
+  - name: Player
+    uniqueID: 1313131373
+    locked: 0
+  - name: background
+    uniqueID: 3069283465
+    locked: 0
+  - name: middleground
+    uniqueID: 1769701453
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: forground
+    uniqueID: 2260709401
+    locked: 0
+  - name: map
+    uniqueID: 500045077
+    locked: 0

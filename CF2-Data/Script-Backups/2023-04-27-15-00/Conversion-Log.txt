@@ -1,0 +1,30 @@
+Converting script [1 / 4]	[\scripts\Dialogue.cs]
+	Fragments : 1
+		[ 0] : Line:   73	InputMethod   GetKeyUp            	(KeyCode.Mouse0)
+
+Converting script [2 / 4]	[\scripts\mana_Orb.cs]
+	Fragments : 1
+		[ 0] : Line:   32	InputMethod   GetMouseButtonDown  	(1)
+
+Converting script [3 / 4]	[\scripts\PlayerController.cs]
+	Fragments : 4
+		[ 0] : Line:   81	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:  100	InputMethod   GetButtonDown       	("Jump")
+		[ 2] : Line:  162	InputMethod   GetMouseButtonDown  	(0)
+		[ 3] : Line:  229	InputMethod   GetMouseButtonDown  	(1)
+
+Converting script [4 / 4]	[\scripts\Settings.cs]
+	Fragments : 3
+		[ 0] : Line:   42	Other mod.	[Screen.fullScreen]
+		[ 1] : Line:   53	Other mod.	[Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen)]
+		[ 2] : Line:   53	Other mod.	[Screen.fullScreen]
+
+
+4 scripts modified!
+Overwriting actual scripts...
+	[0 / 4] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-27-15-00\Assets-After/\scripts\Dialogue.cs] to [C:/Unity/1st_project/Assets/\scripts\Dialogue.cs]
+	[1 / 4] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-27-15-00\Assets-After/\scripts\mana_Orb.cs] to [C:/Unity/1st_project/Assets/\scripts\mana_Orb.cs]
+	[2 / 4] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-27-15-00\Assets-After/\scripts\PlayerController.cs] to [C:/Unity/1st_project/Assets/\scripts\PlayerController.cs]
+	[3 / 4] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-27-15-00\Assets-After/\scripts\Settings.cs] to [C:/Unity/1st_project/Assets/\scripts\Settings.cs]
+
+Overwriting COMPLETED!

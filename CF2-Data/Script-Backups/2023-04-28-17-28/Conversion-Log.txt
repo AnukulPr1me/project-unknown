@@ -1,0 +1,172 @@
+Converting script [1 / 24]	[\scripts\Settings.cs]
+	Fragments : 1
+		[ 0] : Line:   53	Other mod.	[Screen.fullScreen]
+
+Converting script [2 / 24]	[\Plugins\GameCreator\Camera\Motors\CameraMotorTypeAdventure.cs]
+	Fragments : 12
+		[ 0] : Line:  147	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  211	InputMethod   GetAxis             	(INPUT_MOUSE_W)
+		[ 2] : Line:  306	InputProperty touchCount          
+		[ 3] : Line:  308	Other mod.	[Touch]
+		[ 4] : Line:  308	InputProperty touches             
+		[ 5] : Line:  326	InputMethod   GetMouseButton      	(0)
+		[ 6] : Line:  327	InputMethod   GetMouseButton      	(1)
+		[ 7] : Line:  328	InputMethod   GetMouseButton      	(2)
+		[ 8] : Line:  333	InputMethod   GetAxisRaw          	(INPUT_MOUSE_X)
+		[ 9] : Line:  334	InputMethod   GetAxisRaw          	(INPUT_MOUSE_Y)
+		[10] : Line:  336	Other mod.	[Cursor.lockState]
+		[11] : Line:  338	Other mod.	[Cursor.lockState]
+
+Converting script [3 / 24]	[\Plugins\GameCreator\Camera\Motors\CameraMotorTypeFirstPerson.cs]
+	Fragments : 11
+		[ 0] : Line:  101	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  246	InputProperty touchCount          
+		[ 2] : Line:  248	Other mod.	[Touch]
+		[ 3] : Line:  248	InputProperty touches             
+		[ 4] : Line:  263	InputMethod   GetMouseButton      	(0)
+		[ 5] : Line:  264	InputMethod   GetMouseButton      	(1)
+		[ 6] : Line:  265	InputMethod   GetMouseButton      	(2)
+		[ 7] : Line:  270	InputMethod   GetAxisRaw          	(INPUT_MOUSE_X)
+		[ 8] : Line:  271	InputMethod   GetAxisRaw          	(INPUT_MOUSE_Y)
+		[ 9] : Line:  273	Other mod.	[Cursor.lockState]
+		[10] : Line:  275	Other mod.	[Cursor.lockState]
+
+Converting script [4 / 24]	[\Plugins\GameCreator\Characters\Actions\ActionCharacterMoveTo.cs]
+	Fragments : 1
+		[ 0] : Line:   93	InputProperty anyKey              
+
+Converting script [5 / 24]	[\Plugins\GameCreator\Characters\Mono\Characters\PlayerCharacter.cs]
+	Fragments : 13
+		[ 0] : Line:  114	InputMethod   GetKeyDown          	(this.jumpKey)
+		[ 1] : Line:  140	InputMethod   GetAxisRaw          	(AXIS_H)
+		[ 2] : Line:  142	InputMethod   GetAxisRaw          	(AXIS_V)
+		[ 3] : Line:  179	InputMethod   GetAxisRaw          	(AXIS_V)
+		[ 4] : Line:  182	InputMethod   GetAxis             	(AXIS_H)
+		[ 5] : Line:  194	InputMethod   GetMouseButtonDown  	((int)
+		[ 6] : Line:  199	InputProperty mousePosition       
+		[ 7] : Line:  209	InputMethod   GetMouseButton      	((int)
+		[ 8] : Line:  216	InputProperty mousePosition       
+		[ 9] : Line:  248	InputMethod   GetAxis             	(AXIS_H)
+		[10] : Line:  294	InputProperty touches             
+		[11] : Line:  296	InputMethod   GetTouch            	(i)
+		[12] : Line:  298	InputMethod   GetTouch            	(i)
+
+Converting script [6 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterCursorRaycast.cs]
+	Fragments : 2
+		[ 0] : Line:   26	InputMethod   GetKeyUp            	(this.key)
+		[ 1] : Line:   28	InputProperty mousePosition       
+
+Converting script [7 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverHoldKey.cs]
+	Fragments : 4
+		[ 0] : Line:   47	InputMethod   GetKeyUp            	(this.keyCode)
+		[ 1] : Line:   55	InputMethod   GetKey              	(this.keyCode)
+		[ 2] : Line:   64	InputMethod   GetKeyDown          	(this.keyCode)
+		[ 3] : Line:   70	InputMethod   GetKeyUp            	(this.keyCode)
+
+Converting script [8 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverPressKey.cs]
+	Fragments : 1
+		[ 0] : Line:   20	InputMethod   GetKeyDown          	(this.keyCode)
+
+Converting script [9 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyDown.cs]
+	Fragments : 1
+		[ 0] : Line:   18	InputMethod   GetKeyDown          	(this.keyCode)
+
+Converting script [10 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyHold.cs]
+	Fragments : 4
+		[ 0] : Line:   42	InputMethod   GetKeyUp            	(this.keyCode)
+		[ 1] : Line:   50	InputMethod   GetKey              	(this.keyCode)
+		[ 2] : Line:   59	InputMethod   GetKeyDown          	(this.keyCode)
+		[ 3] : Line:   65	InputMethod   GetKeyUp            	(this.keyCode)
+
+Converting script [11 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyUp.cs]
+	Fragments : 1
+		[ 0] : Line:   18	InputMethod   GetKeyUp            	(this.keyCode)
+
+Converting script [12 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseDown.cs]
+	Fragments : 1
+		[ 0] : Line:   25	InputMethod   GetKeyDown          	((KeyCode)
+
+Converting script [13 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldLeft.cs]
+	Fragments : 1
+		[ 0] : Line:   39	InputMethod   GetMouseButton      	((int)
+
+Converting script [14 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldMiddle.cs]
+	Fragments : 1
+		[ 0] : Line:   39	InputMethod   GetMouseButton      	((int)
+
+Converting script [15 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldRight.cs]
+	Fragments : 1
+		[ 0] : Line:   39	InputMethod   GetMouseButton      	((int)
+
+Converting script [16 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseUp.cs]
+	Fragments : 1
+		[ 0] : Line:   25	InputMethod   GetKeyUp            	((KeyCode)
+
+Converting script [17 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterPlayerEnterPressKey.cs]
+	Fragments : 1
+		[ 0] : Line:   21	InputMethod   GetKeyDown          	(this.keyCode)
+
+Converting script [18 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileKeyDown.cs]
+	Fragments : 1
+		[ 0] : Line:   18	InputMethod   GetKey              	(this.key)
+
+Converting script [19 / 24]	[\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileMouseDown.cs]
+	Fragments : 1
+		[ 0] : Line:   25	InputMethod   GetKey              	((KeyCode)
+
+Converting script [20 / 24]	[\Plugins\GameCreator\Core\Mono\Actions\Application\ActionCursor.cs]
+	Fragments : 2
+		[ 0] : Line:   30	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   31	Other mod.	[Cursor.visible]
+
+Converting script [21 / 24]	[\Plugins\GameCreator\Core\Mono\Actions\General\ActionStoreRaycastMouse.cs]
+	Fragments : 1
+		[ 0] : Line:   22	InputProperty mousePosition       
+
+Converting script [22 / 24]	[\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputKey.cs]
+	Fragments : 3
+		[ 0] : Line:   34	InputMethod   GetKey              	(this.key)
+		[ 1] : Line:   35	InputMethod   GetKeyDown          	(this.key)
+		[ 2] : Line:   36	InputMethod   GetKeyUp            	(this.key)
+
+Converting script [23 / 24]	[\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputMouse.cs]
+	Fragments : 3
+		[ 0] : Line:   42	InputMethod   GetMouseButton      	((int)
+		[ 1] : Line:   43	InputMethod   GetMouseButtonDown  	((int)
+		[ 2] : Line:   44	InputMethod   GetMouseButtonUp    	((int)
+
+Converting script [24 / 24]	[\Plugins\GameCreator\Characters\Mono\Characters\Navigation\LocomotionSystems\ILocomotionSystem.cs]
+	Fragments : 3
+		[ 0] : Line:  232	InputProperty mousePosition       
+		[ 1] : Line:  266	InputMethod   GetAxisRaw          	(AXIS_MOUSE_X)
+		[ 2] : Line:  268	InputMethod   GetAxisRaw          	(AXIS_MOUSE_Y)
+
+
+24 scripts modified!
+Overwriting actual scripts...
+	[0 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\scripts\Settings.cs] to [C:/Unity/1st_project/Assets/\scripts\Settings.cs]
+	[1 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Camera\Motors\CameraMotorTypeAdventure.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Camera\Motors\CameraMotorTypeAdventure.cs]
+	[2 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Camera\Motors\CameraMotorTypeFirstPerson.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Camera\Motors\CameraMotorTypeFirstPerson.cs]
+	[3 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Characters\Actions\ActionCharacterMoveTo.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Characters\Actions\ActionCharacterMoveTo.cs]
+	[4 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Characters\Mono\Characters\PlayerCharacter.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Characters\Mono\Characters\PlayerCharacter.cs]
+	[5 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterCursorRaycast.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterCursorRaycast.cs]
+	[6 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverHoldKey.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverHoldKey.cs]
+	[7 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverPressKey.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterHoverPressKey.cs]
+	[8 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyDown.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyDown.cs]
+	[9 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyHold.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyHold.cs]
+	[10 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyUp.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterKeyUp.cs]
+	[11 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseDown.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseDown.cs]
+	[12 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldLeft.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldLeft.cs]
+	[13 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldMiddle.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldMiddle.cs]
+	[14 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldRight.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseHoldRight.cs]
+	[15 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseUp.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterMouseUp.cs]
+	[16 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterPlayerEnterPressKey.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterPlayerEnterPressKey.cs]
+	[17 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileKeyDown.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileKeyDown.cs]
+	[18 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileMouseDown.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Igniters\IgniterWhileMouseDown.cs]
+	[19 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Actions\Application\ActionCursor.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Actions\Application\ActionCursor.cs]
+	[20 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Actions\General\ActionStoreRaycastMouse.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Actions\General\ActionStoreRaycastMouse.cs]
+	[21 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputKey.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputKey.cs]
+	[22 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputMouse.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Core\Mono\Conditions\Input\ConditionInputMouse.cs]
+	[23 / 24] from  [C:/Unity/1st_project/CF2-Data/Script-Backups/2023-04-28-17-28\Assets-After/\Plugins\GameCreator\Characters\Mono\Characters\Navigation\LocomotionSystems\ILocomotionSystem.cs] to [C:/Unity/1st_project/Assets/\Plugins\GameCreator\Characters\Mono\Characters\Navigation\LocomotionSystems\ILocomotionSystem.cs]
+
+Overwriting COMPLETED!
